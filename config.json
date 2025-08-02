@@ -87,3 +87,13 @@
     }
   }
 }
+
+
+"custom_category": [
+    {
+      "name": "中文字幕",
+      "type": "movie",
+      "query": "中文字幕"
+    }
+  ]
+}
